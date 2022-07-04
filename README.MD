@@ -7,7 +7,7 @@
                                                       
                                                       
                               
-                                    <p align="center"><img src="/img/image_jedi.jpg" width="350" title="hover text"></p>
+                                                     ![image_jedi](/img/image_jedi.jpg)
                                                       
                                                       
                                                       
