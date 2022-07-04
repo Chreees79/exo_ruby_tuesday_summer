@@ -1,4 +1,4 @@
-                                                 # Bonjour à toi, Ô grand correcteur!
+                                                 #Bonjour à toi, Ô grand correcteur!
                                                       
                                                       
                                                       
@@ -19,15 +19,15 @@
                                                       
                                                       
 
-                                  ## tu pourras trouver ici, les différents exercices en Ruby dûment effectués!
+                                  ##tu pourras trouver ici, les différents exercices en Ruby dûment effectués!
                                   
                                   
 
-                                                   ### et je t'en souhaite bonne lecture....
+                                                   ###et je t'en souhaite bonne lecture....
                                                    
 
-                                          &#x1F913;                 &#x1F44C;                   	&#x1F4DA;
 
+                               ![image](https://user-images.githubusercontent.com/101528428/177213344-03b41cb4-5275-45aa-9783-2ced3e928f60.png)
 
 
                 ==============================      MERCI DE TA VISITE ET À BIENTÔT!     ===============================
