@@ -6,7 +6,8 @@
                                                       
                                                       
                                                       
-                              ![image_jedi](Chreees79/exo_ruby_tuesday_summer/img/image_jedi.jpg)
+                              
+                                    <p align="center"><img src="/img/image_jedi.jpg" width="350" title="hover text"></p>
                                                       
                                                       
                                                       
