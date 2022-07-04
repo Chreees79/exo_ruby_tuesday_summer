@@ -7,7 +7,7 @@
                                                       
                                                       
                              
-![Cover](img/image_jedi.jpg)
+                                                        ![Cover](img/image_jedi.jpg)
                                                       
                                                       
                                                       
