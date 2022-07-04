@@ -7,7 +7,7 @@
                                                       
                                                       
                               
-                                                     ![image_jedi](/img/image_jedi.jpg)
+                                                     ![image_jedi](http://img/image_jedi.jpg)
                                                       
                                                       
                                                       
