@@ -6,7 +6,7 @@
                                                       
                                                       
                                                       
-                              ![image_jedi](https://github.com/Chreees79/exo_ruby_tuesday_summer/img/image_jedi.jpg)
+                              ![image_jedi](Chreees79/exo_ruby_tuesday_summer/img/image_jedi.jpg)
                                                       
                                                       
                                                       
