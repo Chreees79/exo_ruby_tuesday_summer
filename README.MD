@@ -1,4 +1,4 @@
-                                                      # Bonjour à toi, Ô grand correcteur!
+                                                 # Bonjour à toi, Ô grand correcteur!
                                                       
                                                       
                                                       
@@ -24,8 +24,9 @@
                                   
 
                                                    ### et je t'en souhaite bonne lecture....
+                                                   
 
-
+                                          :books:        :notebook_with_decorative_cover:          	:ledger:
 
 
 
