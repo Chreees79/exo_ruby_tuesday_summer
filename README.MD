@@ -6,8 +6,8 @@
                                                       
                                                       
                                                       
-                              
-                                                     ![image_jedi](src/img/image_jedi.jpg)
+                             
+![Cover](img/image_jedi.jpg)
                                                       
                                                       
                                                       
