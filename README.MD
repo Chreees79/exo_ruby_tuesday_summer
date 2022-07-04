@@ -1,4 +1,4 @@
-<p align-text="center">
+<p align-text=center>
 Bonjour à toi, Ô grand correcteur!
 ========================================
 </p>                                                      
@@ -20,7 +20,7 @@ Bonjour à toi, Ô grand correcteur!
                                                       
                                                       
                                                       
-<p align =center">
+<p align =center>
 ## tu pourras trouver ici, les différents exercices en Ruby dûment effectués!
 </p>                                  
                                   
