@@ -7,7 +7,10 @@
                                                       
                                                       
                              
-                                                        ![Cover](img/image_jedi.jpg)
+![Cover](img/image_jedi.jpg)
+<p align="center">
+<img src="/img/image_jedi.jpg" width="350" title="hover text">
+</p>
                                                       
                                                       
                                                       
