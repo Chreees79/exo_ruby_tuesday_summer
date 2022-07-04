@@ -9,7 +9,7 @@
                              
 
 <p align="center">
-<img src="/img/image_jedi.jpg" width="350" title="hover text">
+<img src="/img/image_jedi.jpg" width="600" title="hover text">
 </p>
                                                       
                                                       
@@ -26,7 +26,7 @@
                                                    ### et je t'en souhaite bonne lecture....
                                                    
 
-                                          :books:        :notebook_with_decorative_cover:          	:ledger:
+                                          &#x1F913;                 &#x1F44C;                   	&#x1F4DA;
 
 
 
