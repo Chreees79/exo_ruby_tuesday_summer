@@ -4,12 +4,14 @@ for n in (1..50)
 end
 
 #autre méthode possible sans utiliser la méthode .rjust =>
-=begin for n in 1...10
+=begin 
+for n in 1...10
+  tab = ["jean.dupont.0#{n}@email.fr"]
   n += 1
 puts tab
 end
 
-while n <= 50 # ou for n in (10..50)
+for n in (10..50)
 tab = ["jean.dupont.#{n}@email.fr"]
 n += 1
 puts tab
