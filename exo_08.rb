@@ -4,5 +4,5 @@ number = gets.chomp.to_i
 
 puts number
 number.times do |i|
-  puts number-= 1
+  puts number -= 1
 end
